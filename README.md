@@ -11,3 +11,7 @@ Y luego pueden correrlo así
 ```
 npm start
 ```
+
+Tambien puedes verlo funcionando en la pagina de Github Pages entrando a la siguiente URL
+
+[https://wmachuca.github.io/react-giphy-app/](https://wmachuca.github.io/react-giphy-app/index.html "GifExpertApp Github Pages")
